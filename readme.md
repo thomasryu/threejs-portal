@@ -1,16 +1,8 @@
-# Three.js Journey
+# Three.js Portal
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Modelling and WebGL exercise from <br/> Bruno Simon's [Three.js Journey](https://threejs-journey.com/) course.
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+### Preview can be found [here](https://threejs-portal.netlify.app/).
+<br/>
 
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![Screenshot_2023-10-10_at_21 01 01-removebg-preview](https://github.com/thomasryu/threejs-portal/assets/3944315/9100ae1b-1fcd-4715-9e97-9a6128e52475)
