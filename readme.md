@@ -5,4 +5,4 @@ Modelling and WebGL exercise from <br/> Bruno Simon's [Three.js Journey](https:/
 ### Preview can be found [here](https://threejs-portal.netlify.app/).
 <br/>
 
-![Screenshot_2023-10-10_at_21 01 01-removebg-preview](https://github.com/thomasryu/threejs-portal/assets/3944315/9100ae1b-1fcd-4715-9e97-9a6128e52475)
+![Screenshot_2023-10-12_at_18 19 35-removebg-preview (1)](https://github.com/thomasryu/threejs-portal/assets/3944315/35638506-d4a7-4f8e-a497-05fc0c6c308b)
